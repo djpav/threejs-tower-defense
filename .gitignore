@@ -1,0 +1,5 @@
+node_modules
+dist
+balance-dashboard.html
+.claude/settings.local.json
+.claude/worktrees/
